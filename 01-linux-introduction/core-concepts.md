@@ -144,7 +144,3 @@ Using version control systems, especially Git, is fundamental for code and confi
   git commit -m "message"
   git push
   ```
-
-
-```
-

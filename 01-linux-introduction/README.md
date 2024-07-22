@@ -1,6 +1,6 @@
 # Linux Basics
 
-This document outlines some basic understanding of Linux..
+This document outlines some basic understanding of Linux.
 
 ## What is Linux?
 
