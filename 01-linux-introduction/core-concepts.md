@@ -2,11 +2,6 @@
 
 This document outlines some of the core concepts in Linux.
 
-```markdown
-# Core Linux Concepts for DevOps Engineers
-
-This guide covers essential Linux concepts that every DevOps engineer should be familiar with, including soft links, hard links, and the differences between systemd and initd, as well as other important topics.
-
 ## Soft Links and Hard Links
 
 ### Soft Links (Symbolic Links)

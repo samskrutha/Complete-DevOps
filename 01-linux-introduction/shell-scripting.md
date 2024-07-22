@@ -1,9 +1,6 @@
 # Shell Scripting
 
-```markdown
-# Introduction to Shell Scripting
-
-This guide will help you understand how to write shell scripts, provide examples of different types of shell scripts, and explain the differences between various types of shells.
+Basics of Shell Scripting.
 
 ## What is a Shell Script?
 
