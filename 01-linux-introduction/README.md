@@ -1,6 +1,6 @@
 # Linux Basics
 
-Welcome to the Linux Basics repository! This guide will help you understand what Linux is and explain its basic components, particularly the kernel and shell.
+This document outlines some basic understanding of Linux..
 
 ## What is Linux?
 
